@@ -1,6 +1,6 @@
 <!--<a href="https://app.daily.dev/fateh"><img src="https://api.daily.dev/devcards/78bb011bcd504e579eca3d01f242cc62.png?r=8pb" width="400" alt="GHRIBI Fateh Andennour's Dev Card"/></a>
 -->
-<a href="https://app.daily.dev/fateh"><img src="https://github.com/FATEH-GH/FATEH-GH/master/devcard.svg" width="400" alt="FATEH-GHs's Dev Card"/></a>
+<a href="https://app.daily.dev/fateh"><img src="https://github.com/FATEH-GH/FATEH-GH/blob/main/devcard.svg" width="400" alt="FATEH-GH's Dev Card"/></a>
 
 
 <!--### Hi there 👋-->
