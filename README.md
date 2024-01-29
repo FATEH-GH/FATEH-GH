@@ -27,7 +27,7 @@ I have a passion for problem-solving and pioneering first-principle thinking, dr
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/fateh-ghribi/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://github.com/FATEH-GH/FATEH-GH/blob/main/GHRIBI%20Fateh%20Abdennour.pdf)
 - 🐕‍🦺 &nbsp; When I am free, I like to spend my time with my dogs. I have two beautiful German Shepherde 🦮 that i absolutely adore.  
 
 <br/>
