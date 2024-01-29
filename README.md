@@ -5,8 +5,12 @@
 
 ### Hi there 👋
 
-### Glad to see you here! I'm Fateh!
 <a href='https://www.linkedin.com/in/fateh-ghribi'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<br/>
+
+ 
+### Glad to see you here! I'm Fateh!
+<br/>
 
 I'm Fateh a passionate web developer from algeria, my main focus is on front end developement where i try my best to create web applications that please the users
 <br/>
@@ -25,20 +29,6 @@ I'm Fateh a passionate web developer from algeria, my main focus is on front end
 - 🐕‍🦺 &nbsp; When I am free, I like to spend my time with my dogs. I have two beautiful German Shepherde 🦮 that i absolutely adore.  
 
 <br>
-<!--
-**FATEH-GH/FATEH-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Languages and Tools:
 
