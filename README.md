@@ -12,7 +12,9 @@
 ### Glad to see you here! I'm Fateh!
 <br/>
 
-I'm Fateh a passionate web developer from algeria, my main focus is on front end developement where i try my best to create web applications that please the users
+I'm Fateh a passionate web developer from algeria, my main focus is developing web application that maximizes the UX/UI 🌠, i find myself better in developping front end application where i try my best to create web applications that pleases the users🤩.
+<br/>
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs,etc.
 <br/>
 <br/>
 
@@ -20,7 +22,7 @@ I'm Fateh a passionate web developer from algeria, my main focus is on front end
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **improving my skills in web developement  **
+- 🔭 &nbsp; I’m currently working on ** improving my skills in web developement  **
 - 🌱 &nbsp; I’m currently trying to master NextJs; 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
@@ -28,20 +30,24 @@ I'm Fateh a passionate web developer from algeria, my main focus is on front end
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 🐕‍🦺 &nbsp; When I am free, I like to spend my time with my dogs. I have two beautiful German Shepherde 🦮 that i absolutely adore.  
 
-<br>
+<br/>
+<br/>
+<br/>
 
 ### Languages and Tools:
-
+<div align="center">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+</div>
 
+<br/>
+<br/>
 
 <div align='center'>
 <a href="https://app.daily.dev/fateh"><img src="https://github.com/FATEH-GH/FATEH-GH/blob/main/devcard.svg" width="400" alt="FATEH-GH's Dev Card"/></a>
