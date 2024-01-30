@@ -22,12 +22,12 @@ I have a passion for problem-solving and pioneering first-principle thinking, dr
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on ** improving my skills in web developement  **
-- 🌱 &nbsp; I’m currently trying to master NextJs; 
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 🔭 &nbsp; I’m currently working on improving my skills in web developement.
+- 🌱 &nbsp; I’m currently trying to master NextJs.
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/fateh-ghribi/)
-- 📝 &nbsp; Checkout my [resume](https://github.com/FATEH-GH/FATEH-GH/blob/main/GHRIBI%20Fateh%20Abdennour.pdf)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/fateh-ghribi/).
+- 📝 &nbsp; Checkout my [resume](https://github.com/FATEH-GH/FATEH-GH/blob/main/GHRIBI%20Fateh%20Abdennour.pdf).
 - 🐕‍🦺 &nbsp; When I am free, I like to spend my time with my dogs. I have two beautiful German Shepherde 🦮 that i absolutely adore.  
 
 <br/>
